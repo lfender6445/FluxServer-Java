@@ -6,7 +6,4 @@
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
-	<listener>
-		<listener-class>com.fluxui.websockets.ChatServerServletContextListener</listener-class>
-	</listener>
 </web-app>
