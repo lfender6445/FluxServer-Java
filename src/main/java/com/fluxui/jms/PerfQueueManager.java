@@ -78,7 +78,7 @@ public class PerfQueueManager {
 
     private boolean sendMessage(String email, String uuid){
         String host = "smtp.gmail.com";
-        final String from = "fluxui@gmail.com";
+        final String from = "fluxuimail@gmail.com";
         final String pass = "emailuser";
         Properties props = System.getProperties();
         props.put("mail.smtp.starttls.enable", "true"); // added this line
@@ -100,7 +100,7 @@ public class PerfQueueManager {
         javax.mail.Session session = javax.mail.Session.getInstance(props, authenticator);
         MimeMessage message = new MimeMessage(session);
         try {
-            message.setFrom(new InternetAddress("fluxui@gmail.com"));
+            message.setFrom(new InternetAddress("fluxuimail@gmail.com"));
 
             InternetAddress[] toAddress = new InternetAddress[to.length];
 
