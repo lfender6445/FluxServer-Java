@@ -22,8 +22,8 @@ public class PerformanceService implements Serializable{
     @Inject
     PerfQueueManager perfQueueManager;
 
-    private static String LOCATION = "/Users/wesleyhales/www/jboss-as-7.1.1.Final/";
-    //private static String LOCATION = "/home/fluxui/dev/fluxui/";
+    private static String LOCATION = "/www/jboss-as-7.1.1.Final-fluxui/";
+    //private static String LOCATION = "/www/jboss-as-7.1.1.Final/";
 
 
     @GET

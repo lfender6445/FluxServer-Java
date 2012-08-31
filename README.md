@@ -14,7 +14,7 @@ to run:
 ** GRANT ALL PRIVILEGES ON fluxui.* TO 'fluxui'@'localhost' WITH GRANT OPTION;
 
 ## run the app server
-* unzip to any directory
+* unzip to the filesystem root in /www/ (should be /www/jboss-as-7.1.1.Final-fluxui/)
 ** ./bin/standalone.sh --server-config=standalone-full.xml -b 0.0.0.0
 
 ## build and copy the application to the appserver for deployment
