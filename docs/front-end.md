@@ -68,6 +68,12 @@
 
 http://subtlepatterns.com/
 
+### RWD Resources ###
+- http://www.filamentgroup.com/
+- http://bradfrostweb.com/blog/web/responsive-nav-patterns/
+- http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/
+- http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/
+
 ## Front-end architecture ##
 
 ### Technical construction ###
