@@ -68,6 +68,9 @@
 
 http://subtlepatterns.com/
 
+### Style Guides ###
+https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
+
 ### RWD Resources ###
 - http://www.filamentgroup.com/
 - http://bradfrostweb.com/blog/web/responsive-nav-patterns/
