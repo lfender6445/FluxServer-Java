@@ -38,5 +38,5 @@ The [loadreport.js repo](https://github.com/wesleyhales/loadreport) is already c
 
 1. Fork it
 2. Commit your changes (`git commit -am 'Add some feature'`)
-3. Push to the branch (`git push origin my-new-feature`)
+3. Push to the branch (`git push origin master`)
 4. [Create new Pull Request](https://github.com/fluxui/FluxServer-Java/pulls)
