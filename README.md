@@ -1,12 +1,12 @@
 fluxui
 ======
-Web interface for [loadreport.js]((https://github.com/wesleyhales/loadreport). Live application can be viewed at [http://loadreport.wesleyhales.com/](http://loadreport.wesleyhales.com/)
+Web interface for [loadreport.js](https://github.com/wesleyhales/loadreport). Live application can be viewed at [http://loadreport.wesleyhales.com/](http://loadreport.wesleyhales.com/)
 
 ## Dependencies:
 
   * Java 1.6          `javac -version`
   * Phantomjs 1.6     `phantomjs -v`
-  * mysql server 5.5
+  * MySQL Server 5.5
   * Apache Maven 3
 
 Download [Maven 3](http://maven.apache.org/download.html) and unzip. Add `maven3-dir/bin` to your path.
@@ -37,7 +37,6 @@ The [loadreport.js repo](https://github.com/wesleyhales/loadreport) is already c
 ## Contributing
 
 1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+2. Commit your changes (`git commit -am 'Add some feature'`)
+3. Push to the branch (`git push origin my-new-feature`)
+4. [Create new Pull Request](https://github.com/fluxui/FluxServer-Java/pulls)
